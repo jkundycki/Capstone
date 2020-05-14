@@ -21,13 +21,13 @@ In this research project, I sought to learn about and become more familiar with 
 
 ![](images/edit.png)
 
--GANs can be used for generating images from a learned dataset such as the face shown above. Generating new images was the scope of my research project.
+-GANs can be used for generating images from a learned dataset. Generating new images was the scope of my research project.
 
 ## Generated Images
 
-![](images/digits.png)
+![](images/digits.jpg)
 
-Here is an example of some digits that the discriminator model was trained on
+Here is an example of some of the digits that the discriminator model was trained on
 
 ![](images/10.png)
 
@@ -43,4 +43,4 @@ After 100 epochs, even more smoothening has happened and the figures are resembl
 
 ## Future Work
 
-For my future work, I would like to create a GAN to generate faces as shown above. The added complexity of the images will pose new challenges with which to improve my knowledge of GANs. I hope to use this new technology in my field of work if ever it is applicable.
+For my future work, I would like to create a GAN to generate faces. The added complexity of the images will pose new challenges with which to improve my knowledge of GANs. I hope to use this new technology in my field of work if ever it is applicable.
