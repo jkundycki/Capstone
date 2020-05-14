@@ -25,7 +25,7 @@ In this research project, I sought to learn about and become more familiar with 
 
 ## Generated Images
 
-![](images/digits.jpg)
+![](images/digits.JPG)
 
 Here is an example of some of the digits that the discriminator model was trained on
 
